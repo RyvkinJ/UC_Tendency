@@ -1,3 +1,4 @@
+Presented by Ya'eer Kidron & Yulia Ryvkin & Yair Toledano
 # UC_Tendency
 Ulcerative colitis (UC) is a chronic relapsing-remitting inflammatory bowel disease (IBD) diagnosed primarily in young individuals. The disease burden has increased with globalization; newly industrialized countries show the greatest increase in incidence and the highest prevalence is recorded in Western countries.
 
